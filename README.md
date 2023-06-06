@@ -1,6 +1,6 @@
 > Hi! I'm Alvin Huang.
 # 💫 About Me:
-🌆 Locating in Los Angeles, CA.<br>🔐 Web Security & Pentesting<br>♟️ Chess Player<br>
+🌆 Located in Los Angeles, CA.<br>🔐 Web Security & Pentesting<br>♟️ Chess Player<br>
 
 
 ## 🌐 Socials:
