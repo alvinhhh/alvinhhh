@@ -42,19 +42,6 @@
 
 We’re building the operating system for independent vehicle rental operators — the infrastructure layer that helps individuals and small fleet owners run real rental businesses, not just list cars and hope for the best.
 
-## WakaTime
-
-<!-- Replace with real WakaTime stats when available -->
-
-<div align="center">
-
-```text
-  Week: 42h 18m
-  Languages: TypeScript · JavaScript · React · CSS
-  Most used editor: VS Code
-  Current streak: shipping
-```
-
 </div>
 
 ## Stack & competencies
