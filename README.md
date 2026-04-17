@@ -55,5 +55,5 @@ revolutionising an industry
 - Email: alvin@aurova.io
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=alvinhhh&icon=0&color=0" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=alvinhhh&style=flat-square" alt="profile views" />
 </p>
