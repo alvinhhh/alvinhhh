@@ -10,14 +10,10 @@
 /____  >___|  /__|   __/ 
  \/     \/   |__|
                                     
-  shipping at terminal velocity
+  shipping stupid shit, at terminal velocity
 ```
 
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alvinhhh&style=flat-square" alt="profile views" />
-</p>
 
 <h1 align="center">Alvin Huang — Founder & CEO of Aurova</h1>
 
