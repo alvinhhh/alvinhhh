@@ -1,16 +1,14 @@
 > Hi, I’m Alvin Huang.
 
-# Alvin Huang — Founder & CEO of Aurova
-
 <div align="center">
 
 ```text
-   ___              _                 
-  / _ \  ___  _ __ | | ___   _  ___   
- | | | |/ _ \| '_ \| |/ / | | |/ _ \  
- | |_| | (_) | | | |   <| |_| |  __/  
-  \___/ \___/|_| |_|_|\_\\__,_|\___|  
-                                       
+       .__    .__        
+  _____|  |__ |__|_____  
+ /  ___/  |  \|  \____ \ 
+ \___ \|   Y  \  |  |_> >
+/____  >___|  /__|   __/ 
+     \/     \/   |__|                                      
   shipping at terminal velocity
 ```
 
@@ -21,7 +19,7 @@
 - Founder / CEO of Aurova
 - Building infrastructure for vehicle rental operators
 - Shipping product at terminal velocity
-- No longer 16, despite what the internet may imply
+- Finally 18
 
 ## What Aurova does
 
@@ -32,7 +30,7 @@ We’re building the operating system for independent vehicle rental operators �
 - Making vehicle rental operations feel 10x more modern
 - Turning messy workflows into clean software
 - Shipping fast without turning the repo into a landfill
-- Keeping the joke-to-signal ratio just barely acceptable
+- Keeping the joke-to-signal ratio just barely above sea level
 
 ## Status
 
@@ -44,13 +42,10 @@ $ role
 Founder & CEO, Aurova
 
 $ age
-older than 16
+18
 
-$ mission
-build
-
-$ mode
-terminal velocity
+$ wtfamidoing
+revolutionising an industry
 ```
 
 ## Reach
