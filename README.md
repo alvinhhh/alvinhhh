@@ -48,6 +48,9 @@ older than 16
 
 $ mission
 build
+
+$ mode
+terminal velocity
 ```
 
 ## Reach
