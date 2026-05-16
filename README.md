@@ -110,17 +110,16 @@ We’re building the operating system for independent vehicle rental operators �
   <img src="https://img.shields.io/badge/Korean-2563EB?style=flat-square&logo=googletranslate&logoColor=white" alt="Korean" />
 </p>
 
-## Currently obsessed with
+## Currently:
 
 - Making vehicle rental operations feel 10x more modern
-- Turning messy workflows into clean software
-- Shipping fast without turning the repo into a landfill
-- Keeping the joke-to-signal ratio just barely above sea level
+- Turning my old messy workflows into actually clean stuff
+- Shipping fast without turning the repo into a landfill (hoping)
+- Keeping the joke-to-signal ratio just barely above stupid level
 
 ## Stupid Ideas Roadmap
 
-High-effort backlog. Small commits. Plenty of nonsense.
-
+Just making stuff for when i'm bored.
 - chess-chaos — chess game with a blunder clock
 - pitch-ipsum — startup pitch Lorem Ipsum generator
 - vc-rejection-clicker — clicker game that generates VC rejection emails
